@@ -8,7 +8,7 @@ Sound interesting?
 
 Read our [Quick Start Guide](https://docs.salable.app/docs/quick-start-guide) to get started collecting payments now.
 
-### Our Toolkit
+### Our toolkit
 
 We offer a range of first-party SDKs for easy integration with Salable. Don’t worry though if you don’t see your favourite language here, you can always integrate with Salable via our REST API.
 
